@@ -31,5 +31,6 @@
 - Compared sales and profit across categories.
 - Analyzed regional sales performance.
 - Highlighted high-profit products.
+
 ##Dashboard Preview
 ![Dashboard](Dashboard.png)
